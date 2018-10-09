@@ -18,9 +18,11 @@ public class Main {
 			node = node.next;
 		}*/
 		
-		int[] nums = new int[] {2,7,11,5};
-		int target = 9;
-		System.out.println(Solution.twoSum(nums,  target)[0] + " " + Solution.twoSum(nums,  target)[1]);
+//		int[] nums = new int[] {2,7,11,5};
+//		int target = 9;
+//		System.out.println(Solution.twoSum(nums,  target)[0] + " " + Solution.twoSum(nums,  target)[1]);
+	
+		System.out.println(Solution.lengthOfLongestSubstring("pwwkew"));
 	}
 
 }
